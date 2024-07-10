@@ -7,8 +7,15 @@ Cross-Platform Compatibility: The calculator is embedded directly into my applic
 User-Friendly Interface: Simplifies the process of subnetting, ensuring quick and error-free calculations.
 Versatile Use: Suitable for various cloud platforms, including Google Cloud, AWS, and Azure.
 Benefits:
-Time-Saving: Eliminates the need for manual calculations, streamlining your workflow.
-Accuracy: Reduces the risk of errors that can occur when calculating subnet ranges manually.
-Accessibility: Can be accessed at any time, making it a convenient tool for all your networking needs.
-Technical Information:
+
+-Time-Saving: Eliminates the need for manual calculations, streamlining your workflow.
+
+-Accuracy: Reduces the risk of errors that can occur when calculating subnet ranges manually.
+
+-Accessibility: Can be accessed at any time, making it a convenient tool for all your networking needs.
+
+-Technical Information:
 Programming Language: The calculator is programmed in JavaScript.
+
+-Embed
+Can be embeded to any website directly as a Java file.
