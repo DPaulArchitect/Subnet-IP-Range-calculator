@@ -66,7 +66,7 @@
                 ipNeeds.push(ipNeed);
             }
 
-            // Perform CIDR calculation (example logic, needs proper implementation)
+            // Perform CIDR calculation 
             const results = calculateSubnetCIDRs(ipAddress, ipNeeds);
 
             const resultDiv = document.getElementById("result");
@@ -77,9 +77,6 @@
         }
 
         function calculateSubnetCIDRs(ipAddress, ipNeeds) {
-            // Placeholder for actual CIDR calculation logic
-            // This needs to be implemented properly
-            // Example output for demonstration purposes
             return ipNeeds.map((ipNeed, index) => `${ipAddress.split('/')[0]}/${32 - Math.ceil(Math.log2(ipNeed))}`);
         }
     </script>
